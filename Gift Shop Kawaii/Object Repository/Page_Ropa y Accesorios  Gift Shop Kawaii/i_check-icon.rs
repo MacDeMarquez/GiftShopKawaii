@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_check-icon</name>
+   <tag></tag>
+   <elementGuidId>62a01df8-ca14-4b1b-a97b-0dd44d5d63a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Add filter:  Aros&quot;] > i.check-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[4]/div/ul/li[2]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>921d4e3f-4fae-40fe-96a6-267f388cca9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check-icon</value>
+      <webElementGuid>06a45afe-fbcd-4af0-aa98-853623e5b4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ropa-y-accesorios&quot;)/main[1]/div[@class=&quot;featured-collection&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;filter-menu  filter-selected-accesorios&quot;]/div[@class=&quot;filter-group filter-group-tipo-de-producto  has_mutliple_items   pt-filter-mode-single&quot;]/div[@class=&quot;scroll-content&quot;]/ul[@class=&quot;nav-tipo-de-producto&quot;]/li[@class=&quot;collection-container filter-active-aros active&quot;]/div[@class=&quot;collection-name&quot;]/a[1]/i[@class=&quot;check-icon&quot;]</value>
+      <webElementGuid>28aaa93d-657d-4a7d-906b-555b0fd619eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[4]/div/ul/li[2]/div/a/i</value>
+      <webElementGuid>a192a078-5ca8-48da-bc22-3b647e1ce8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]/div/a/i</value>
+      <webElementGuid>bd99fa60-52be-465c-980a-c18bc90a8b7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

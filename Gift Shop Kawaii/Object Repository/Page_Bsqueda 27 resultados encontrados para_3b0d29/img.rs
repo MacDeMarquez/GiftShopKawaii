@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>e3fbf3f4-030c-4493-99ab-48397ddfe193</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Peluche cerdito dormilón&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='busqueda-27-resultados-encontrados-para-quot-cerdito-quot']/main/div/div/ul/li[4]/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a7ea7c2c-948c-42d9-9532-50406e5f1f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//giftshopkawaii.cl/cdn/shop/products/peluchecerdo02_grande.jpg?v=1618417642</value>
+      <webElementGuid>c8362afe-cc9e-4ecb-a133-09545964d61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Peluche cerdito dormilón</value>
+      <webElementGuid>6a64b7c5-7a74-456a-82fe-0473c6fef134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;busqueda-27-resultados-encontrados-para-quot-cerdito-quot&quot;)/main[1]/div[@class=&quot;featured-collection&quot;]/div[@class=&quot;clear&quot;]/ul[1]/li[@class=&quot;item one-quarter small--one-half   on-sale&quot;]/a[1]/div[@class=&quot;img&quot;]/img[1]</value>
+      <webElementGuid>584170b1-210b-436e-a9b1-3c40504868fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='busqueda-27-resultados-encontrados-para-quot-cerdito-quot']/main/div/div/ul/li[4]/a/div/img</value>
+      <webElementGuid>abafbb40-d192-4e3d-994e-78c45a30390a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Peluche cerdito dormilón']</value>
+      <webElementGuid>6cc9b499-a446-48c5-bdbc-3db4bdccc7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/img</value>
+      <webElementGuid>f226743a-dda6-44fe-a595-29c373bd688d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//giftshopkawaii.cl/cdn/shop/products/peluchecerdo02_grande.jpg?v=1618417642' and @alt = 'Peluche cerdito dormilón']</value>
+      <webElementGuid>c7badbe6-0045-4976-8b7f-f7e22f34e841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

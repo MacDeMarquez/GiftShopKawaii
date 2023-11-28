@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Precio Mayor a Menor</name>
+   <tag></tag>
+   <elementGuidId>7385f738-72d5-4ac6-98f4-be921148491f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Add filter:  Precio: Mayor a Menor&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[6]/div/ul/li[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0bc1084-c1e7-4c0d-98b5-3388965a0872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/accesorios/aros?sort_by=price-descending</value>
+      <webElementGuid>35357068-ed15-4ca6-935c-95147473dc39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add filter:  Precio: Mayor a Menor</value>
+      <webElementGuid>c35b592b-43bc-4e68-a75d-2c25860b3ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Precio: Mayor a Menor</value>
+      <webElementGuid>9c717405-9c2f-4ddc-afd5-4c34d00eeaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ropa-y-accesorios&quot;)/main[1]/div[@class=&quot;featured-collection&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;filter-menu  filter-selected-accesorios filter-selected-aros&quot;]/div[@class=&quot;filter-group filter-group-sort-orders&quot;]/div[@class=&quot;scroll-content&quot;]/ul[@class=&quot;nav-sort-orders&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;collection-name&quot;]/a[1]</value>
+      <webElementGuid>07722eb2-9bbe-4c62-bc6a-4a88cf12577d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[6]/div/ul/li[2]/div/a</value>
+      <webElementGuid>36ae6036-e20b-4f19-9ce1-0f0fb4a93e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Precio: Mayor a Menor')]</value>
+      <webElementGuid>89afa6f3-9051-442a-ad78-63fe8bc4cf06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/collections/accesorios/aros?sort_by=price-descending')]</value>
+      <webElementGuid>8d19f843-a708-42d8-9ba8-3da7780ab964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>78d9cf45-3bdc-483a-929f-08eb850c8e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/accesorios/aros?sort_by=price-descending' and @title = 'Add filter:  Precio: Mayor a Menor' and (text() = ' Precio: Mayor a Menor' or . = ' Precio: Mayor a Menor')]</value>
+      <webElementGuid>c6295dfd-0646-4c63-a2f9-6d9eea64fcdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

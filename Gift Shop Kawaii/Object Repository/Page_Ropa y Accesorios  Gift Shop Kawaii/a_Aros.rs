@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aros</name>
+   <tag></tag>
+   <elementGuidId>9014a206-a535-44f2-b6fa-f37f5f005f29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Add filter:  Aros&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[4]/div/ul/li[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7f98ec55-4b5f-441b-9bc7-f478e7ad2013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/accesorios/aros</value>
+      <webElementGuid>6bf6cbb0-25c2-4f71-967c-c8423c1e0fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add filter:  Aros</value>
+      <webElementGuid>2e6b113f-58ed-4064-81f3-ad0c07ca7d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Aros</value>
+      <webElementGuid>991238ec-dd12-442d-bb2a-d9dd10fdc234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ropa-y-accesorios&quot;)/main[1]/div[@class=&quot;featured-collection&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;filter-menu  filter-selected-accesorios&quot;]/div[@class=&quot;filter-group filter-group-tipo-de-producto  has_mutliple_items   pt-filter-mode-single&quot;]/div[@class=&quot;scroll-content&quot;]/ul[@class=&quot;nav-tipo-de-producto&quot;]/li[@class=&quot;collection-container filter-active-aros active&quot;]/div[@class=&quot;collection-name&quot;]/a[1]</value>
+      <webElementGuid>05c89f6d-e57e-4d77-bceb-144c720b5f6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ropa-y-accesorios']/main/div/div/div/div/div[4]/div/ul/li[2]/div/a</value>
+      <webElementGuid>0967b700-e9e2-48e5-9232-62646b85d7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Aros')])[2]</value>
+      <webElementGuid>c52d0d9a-3a18-445a-a8d0-da890e43c4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/collections/accesorios/aros')]</value>
+      <webElementGuid>a9ba023f-1aca-4904-8261-b14f7c1e8cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]/div/a</value>
+      <webElementGuid>65555f7b-4a6a-40b6-9d50-47a46de6de23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/accesorios/aros' and @title = 'Add filter:  Aros' and (text() = ' Aros' or . = ' Aros')]</value>
+      <webElementGuid>1fb77d7b-12da-4b3e-ad25-be26e537c6d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

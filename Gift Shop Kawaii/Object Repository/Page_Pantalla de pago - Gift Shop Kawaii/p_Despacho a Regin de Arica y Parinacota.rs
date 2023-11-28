@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Despacho a Regin de Arica y Parinacota</name>
+   <tag></tag>
+   <elementGuidId>0eecec89-5d49-4deb-9434-fbbe327f212f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p._1x52f9s1._1frageme0._1x52f9so._1fragemfq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='shipping_methods']/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b81c74b3-9993-4fa8-9a00-89f621c97c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1x52f9s1 _1frageme0 _1x52f9so _1fragemfq</value>
+      <webElementGuid>776a8a4b-098d-4025-b34d-ad5922d37bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Despacho a Región de Arica y Parinacota</value>
+      <webElementGuid>658753d2-1c0a-434c-a146-2588fe76b1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipping_methods&quot;)/div[@class=&quot;Wo4qW ezrb1p3 _1fragemf1 _1fragemm8 NDMe9 NdTJE PuVf0&quot;]/div[@class=&quot;B4zH6 Zb82w HKtYc OpmPd&quot;]/div[@class=&quot;yL8c2 ezrb1p5 _1fragemf2&quot;]/div[@class=&quot;f5aCe&quot;]/div[1]/p[@class=&quot;_1x52f9s1 _1frageme0 _1x52f9so _1fragemfq&quot;]</value>
+      <webElementGuid>afdbdadd-2dad-443c-922f-159f1eba42e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='shipping_methods']/div/div/div/div/div/p</value>
+      <webElementGuid>d30364a1-741f-4dba-8d92-7039df6056f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>02d32a11-1554-4674-aae3-b4895737c6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Despacho a Región de Arica y Parinacota' or . = 'Despacho a Región de Arica y Parinacota')]</value>
+      <webElementGuid>d5a1137d-d446-4e44-8c72-f6b856908b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

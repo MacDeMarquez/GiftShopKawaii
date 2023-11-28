@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>962bd1b7-20f0-4914-abe4-b3ccb2a2a198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._1frageme0._1fragemfi._1mrl40q2._1fragemgb._1fragemgs._16s97g7c._16s97g7d._16s97g7e._16s97g7k._16s97g718._16s97g719._16s97g71a._16s97g71g._16s97g78a > div:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35806c39-a483-465b-9f3b-294e77619928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;g9gqqf1 _1fragemfq _1fragemm8 _1fragemex _1fragemf0&quot;]/div[@class=&quot;_1fragemfc _1frageme0&quot;]/div[@class=&quot;_1fragemf0 _1fragemex _1fragemfc _1fragemm8 _1frageme0 MX30i&quot;]/div[@class=&quot;_1fragemfi _1fragemdg&quot;]/div[@class=&quot;_1frageme0 _1fragemfi _1mrl40q2 _1fragemgb _1fragemgs _16s97g7c _16s97g7k _16s97g718 _16s97g71g&quot;]/div[@class=&quot;_1fragemfc _1frageme0&quot;]/div[@class=&quot;_1frageme0 _1fragemfi _1mrl40q2 _1fragemgb _1fragemgs _16s97g7c _16s97g7d _16s97g7e _16s97g7k _16s97g718 _16s97g719 _16s97g71a _16s97g71g   _16s97g78a&quot;]/div[3]</value>
+      <webElementGuid>cc5f5977-2052-4d2d-a092-97c0b18418b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>dbade579-9c12-4f94-bdd9-534475a6a569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]</value>
+      <webElementGuid>6adcda7c-333e-4bce-ba65-50318c297c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

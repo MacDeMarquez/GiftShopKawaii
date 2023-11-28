@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Agregar al carrito</name>
+   <tag></tag>
+   <elementGuidId>1082e77f-d938-401d-9f53-0be4d4255a06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-to-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='add-to-cart']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>914a6c95-5802-45a4-813e-22ecdfa8dbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-to-cart</value>
+      <webElementGuid>71defb16-5584-4aac-bb14-213766486775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-to-cart</value>
+      <webElementGuid>003d5e72-d0e9-4222-98cf-151a445e7462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Agregar al carrito
+            </value>
+      <webElementGuid>d8c8e180-f0ae-497d-9260-d8a2e1587324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-cart&quot;)</value>
+      <webElementGuid>83b9c1c2-8286-4e2a-8562-b1bbfc96f387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add-to-cart']</value>
+      <webElementGuid>b38c6dda-5841-4676-80aa-5bae42865216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-add']/a</value>
+      <webElementGuid>5d7fcc5a-fe75-4710-a052-db982b104dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Agregar al carrito')]</value>
+      <webElementGuid>a552e2a9-79a4-4fbd-b8e9-2626f808c406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[83]</value>
+      <webElementGuid>9415203a-6bcd-4240-87e2-74190343022b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>d71b7f11-00d5-4e94-9aaa-15c91a5be6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'add-to-cart' and (text() = '
+              Agregar al carrito
+            ' or . = '
+              Agregar al carrito
+            ')]</value>
+      <webElementGuid>05a6c838-8908-47e1-8a88-a01b68a450d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
